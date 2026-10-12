@@ -2,9 +2,9 @@
 
 **[Open or import this table](https://sehun-joo.github.io/gekichumai-pms-beginner/)**
 
-227 PMS charts across 99 songs appearing in maimai, CHUNITHM or ONGEKI. Includes 28 charts at Lv20 or below and 13 five-button PMS charts. The scope is the normal PMS table's **Lv1–45 and 45+**, matching the [Pump collection](https://sehun-joo.github.io/pump-pms-normal/). The upper levels are challenging; use the Lv1–20 browser filter to start.
+229 PMS charts across 100 songs appearing in maimai, CHUNITHM or ONGEKI. Includes 30 charts at Lv20 or below (including two provisional ratings) and 14 five-button PMS charts. The scope is the normal PMS table's **Lv1–45 and 45+**, matching the [Pump collection](https://sehun-joo.github.io/pump-pms-normal/). The upper levels are challenging; use the Lv1–20 browser filter to start.
 
-Add the public page URL to your player's difficulty-table settings. Browser filters do not change imports: the player receives all 227 charts. Only metadata is hosted; obtain playable files using the credited package and chart links. External downloads have not all been tested.
+Add the public page URL to your player's difficulty-table settings. Browser filters do not change imports: the player receives all 229 charts. Only metadata is hosted; obtain playable files using the credited package and chart links. External downloads have not all been tested.
 
 ## Sources and matching
 
@@ -29,7 +29,15 @@ Original BMS versions of later Sega-game remakes are included and explicitly lab
 
 Same-title collisions were rejected, including Apollo (xelloscope vs TJ.hangneil), seagull, Colorful, Odin (しらいし vs Gram), METATRON (OptiU vs SHIKI), and 竹 (LU vs 立秋). Different covers/remixes of 魔理沙は大変なものを盗んでいきました, 鳥の詩 and Henceforth were not silently treated as the licensed versions. Unknown `?` difficulty rows and raw old chart-header levels are not used.
 
-The only supplements are mopemope Normal Lv22 and Hyper Lv40. Their original records in `supplemental-charts.json` come from the [upstream excluded table](https://pmsdatabase.github.io/excluded_pmsdatabase/excluded_pmsdatabase_score.json), BGA gore category; comments explicitly retain the corrected 20→22 and 39→40 ratings. No other excluded charts are automatically included.
+The normalized-rating supplements are mopemope Normal Lv22 and Hyper Lv40. Their original records in `supplemental-charts.json` come from the [upstream excluded table](https://pmsdatabase.github.io/excluded_pmsdatabase/excluded_pmsdatabase_score.json), BGA gore category; comments explicitly retain the corrected 20→22 and 39→40 ratings. Cutter also has two explicitly provisional supplements, described below. No excluded charts are automatically included.
+
+## Fresh local-database audit (2026-10-12)
+
+Read-only SQLite queries examined 20,549 PMS records (16,528 unique MD5 hashes), including five-button charts stored in mode 9. All records with a `.pms` extension were checked regardless of database mode; none were outside mode 9. The song-information database supplied density, peak density, long-note and lane counts. Broader title/alias candidates, near-spelling matches, and all 30 hashes absent from the three PMS source tables were reviewed.
+
+This found **Cutter by EmoCosine (ONGEKI)**: **3? / five-button / 88 notes** and **11? / nine-button Easy / 150 notes**. Both local files were MD5-verified. Their BOFXVI headers declare levels 3 and 11; neither has a numeric normalized rating in the excluded source. They are labeled with `?` in the player table, not represented as upstream-normalized levels. Both are 140.937 seconds, constant 160 BPM, with no long notes; database peak densities are 2 and 3 respectively. The source excludes these charts under the BGA-gore category.
+
+Older L9 variants are marked corrected upstream, Pure Ruby variants withdrawn, and old felys variants have no usable normalized ratings. These were not added as fresh beginner ratings. Star of Andromeda remains outside the normal range. Database paths and the full private audit remain local; only public chart metadata and derived verification statistics are committed.
 
 ## Rebuild
 

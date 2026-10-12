@@ -10,12 +10,12 @@ const songs = new Map(catalog.map(s => [s.name,s]));
 $('total').textContent = rows.length;
 $('songs').textContent = catalog.filter(s=>s.count).length;
 $('coverage-count').textContent = `${catalog.filter(s=>s.count).length} matched / ${catalog.length} tracked`;
-const levels = [...new Set(rows.map(r=>r.level))].sort((a,b)=>parseFloat(a)-parseFloat(b)||(a.endsWith('+')?1:-1));
+const levels = [...new Set(rows.map(r=>r.level))].sort((a,b)=>parseFloat(a)-parseFloat(b)||a.localeCompare(b));
 for (const level of levels) { const option = document.createElement('option'); option.value=level;option.textContent=`Lv ${level}`;$('level').append(option); }
 const searchable = rows.map(row=>({row,text:normalize([row.title,row.artist,mapping[row.md5],...songs.get(mapping[row.md5]).aliases].join(' '))}));
 function render(){
  const query=normalize($('search').value);const level=$('level').value;const game=$('game').value;const collection=$('collection').value;const range=Number($('range').value)||Infinity;
- const filtered=searchable.filter(x=>(!level||x.row.level===level)&&(!query||x.text.includes(query))&&(!game||songs.get(mapping[x.row.md5]).games.includes(game))&&(!collection||(collection==='touhou'?songs.get(mapping[x.row.md5]).touhou:x.row.title.includes('5BUTTONS')))&&Number(x.row.level.replace('+','.5'))<=range).map(x=>x.row);
+ const filtered=searchable.filter(x=>(!level||x.row.level===level)&&(!query||x.text.includes(query))&&(!game||songs.get(mapping[x.row.md5]).games.includes(game))&&(!collection||(collection==='touhou'?songs.get(mapping[x.row.md5]).touhou:x.row.title.includes('5BUTTONS')))&&Number(x.row.level.replace('+','.5').replace('?',''))<=range).map(x=>x.row);
  const songCount = new Set(filtered.map(r=>mapping[r.md5])).size;
  $('results').textContent=`${filtered.length} chart${filtered.length===1?'':'s'} · ${songCount} song${songCount===1?'':'s'}`;
  $('empty').hidden=filtered.length>0;

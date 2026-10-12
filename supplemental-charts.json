@@ -52,5 +52,85 @@
       "chart_metadata_source": "beatoraja",
       "lr2_bmsid": "254769"
     }
+  },
+  {
+    "source_url": "https://pmsdatabase.github.io/excluded_pmsdatabase/excluded_pmsdatabase_score.json",
+    "snapshot": "2026-10-12",
+    "level": "3?",
+    "chart": "5-button",
+    "rating_basis": "chart_header_provisional",
+    "verification": {
+      "md5": "639fbea6ed50cbc64302cef582893bf5",
+      "sha256": "4aa4bf497b9e0896a6798424dbef2c729a86adf3b55df8d8b16061790948d74a",
+      "declared_level": 3,
+      "notes": 88,
+      "seconds": 140.937,
+      "peakdensity": 2.0,
+      "long_notes": 0,
+      "minbpm": 160,
+      "maxbpm": 160,
+      "active_lanes": 5
+    },
+    "record": {
+      "level": "グロゴア",
+      "pdb_id": "200885",
+      "no": "21887",
+      "title": "Cutter [5BUTTONS]",
+      "sha256": "4aa4bf497b9e0896a6798424dbef2c729a86adf3b55df8d8b16061790948d74a",
+      "md5": "639fbea6ed50cbc64302cef582893bf5",
+      "video1": "",
+      "video2": "",
+      "url_diff": "",
+      "name_diff": "- (BOFXVIPMS)",
+      "url": "https://pmsdifficulty.xxxxxxxx.jp/BOFPMS.html",
+      "artist": "EmoCosine / 出前",
+      "comment": "",
+      "memo": "BOF2020",
+      "state": "7",
+      "notes": "88",
+      "total": "262",
+      "chart_metadata_source": "beatoraja",
+      "lr2_bmsid": "299124"
+    }
+  },
+  {
+    "source_url": "https://pmsdatabase.github.io/excluded_pmsdatabase/excluded_pmsdatabase_score.json",
+    "snapshot": "2026-10-12",
+    "level": "11?",
+    "chart": "9-button Easy",
+    "rating_basis": "chart_header_provisional",
+    "verification": {
+      "md5": "ed34268a948b8ff823114d2ba74b16db",
+      "sha256": "10a30457f342bab0b93f82f5c3e5fbdfffe68bb5a99b785b8c4811bb0b46a086",
+      "declared_level": 11,
+      "notes": 150,
+      "seconds": 140.937,
+      "peakdensity": 3.0,
+      "long_notes": 0,
+      "minbpm": 160,
+      "maxbpm": 160,
+      "active_lanes": 9
+    },
+    "record": {
+      "level": "グロゴア",
+      "pdb_id": "200883",
+      "no": "21885",
+      "title": "Cutter",
+      "sha256": "10a30457f342bab0b93f82f5c3e5fbdfffe68bb5a99b785b8c4811bb0b46a086",
+      "md5": "ed34268a948b8ff823114d2ba74b16db",
+      "video1": "",
+      "video2": "",
+      "url_diff": "",
+      "name_diff": "- (BOFXVIPMS)",
+      "url": "https://pmsdifficulty.xxxxxxxx.jp/BOFPMS.html",
+      "artist": "EmoCosine / 出前",
+      "comment": "",
+      "memo": "BOF2020",
+      "state": "3",
+      "notes": "150",
+      "total": "276",
+      "chart_metadata_source": "beatoraja",
+      "lr2_bmsid": "299149"
+    }
   }
 ]

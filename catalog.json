@@ -3777,5 +3777,33 @@
     "references": [
       "https://w.atwiki.jp/laser_bm/pages/86.html"
     ]
+  },
+  {
+    "name": "Cutter",
+    "aliases": [],
+    "artist": "EmoCosine",
+    "basis": "Japanese official ONGEKI catalog; local PMS files hash-verified",
+    "source": "https://ongeki.sega.jp/assets/json/music/music.json",
+    "evidence": [
+      {
+        "game": "ongeki",
+        "title": "Cutter",
+        "artist": "EmoCosine",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "639fbea6ed50cbc64302cef582893bf5",
+      "ed34268a948b8ff823114d2ba74b16db"
+    ],
+    "note": "Provisional file ratings 3? / 11?; not normalized upstream ratings. Excluded upstream for BGA gore. Both charts have constant 160 BPM and no long notes.",
+    "references": [
+      "https://pmsdifficulty.xxxxxxxx.jp/excluded_PMSdifficulty.html"
+    ]
   }
 ]
