@@ -1,0 +1,3781 @@
+[
+  {
+    "name": "volcanic",
+    "aliases": [],
+    "artist": "DETRO a.k.a ルゼ",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "volcanic",
+        "artist": "DETRO a.k.a ルゼ",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "1abf6f9e159999badfeb6b8d0ade304d",
+      "da316a93e4dc1352d9e75cc947465276"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "L9",
+    "aliases": [],
+    "artist": "paraoka",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "L9",
+        "artist": "paraoka",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "L9",
+        "artist": "paraoka",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "L9",
+        "artist": "paraoka",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "55463f28f945396f35df87dbe79bf7d6",
+      "5a8b9c6c12dbc208841ac0ac2dc0e031",
+      "b5b36f71f3b3840f7d22187c26db683c",
+      "b5de4367960ec024672d73aefcfee0e4"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "SAMBISTA",
+    "aliases": [],
+    "artist": "DOT96",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "SAMBISTA",
+        "artist": "DOT96",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "ef3339a2a133cada7536998837d2bc28",
+      "cce88d686034689d87d615186875a23a",
+      "1005ee701a9361cb82afdb4d03ee359a"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "ひつぎとふたご",
+    "aliases": [],
+    "artist": "plastic feat. サキト",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "ひつぎとふたご",
+        "artist": "plastic feat. サキト",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "4efeab2742e11c28c3c88acd452e693f",
+      "cd8c66cccf2473026c34585b75d40021"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "★LittlE HearTs★",
+    "aliases": [],
+    "artist": "ねこみみ魔法使い",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "★LittlE HearTs★",
+        "artist": "ねこみみ魔法使い",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "69b4f53db6310dc649a8f435f6e0999e",
+      "c82d2383a413cbe91d909e57bdfd3e95",
+      "022253d037585e4b87844f6effd58950"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "7 colors*",
+    "aliases": [],
+    "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "7 colors*",
+        "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "1f27df2033e24ae8e5718172b68f0bc5",
+      "ca8f5799cb2b45c107216cee9e86134a",
+      "f271051698d6bb2a302409f66a15b7f7",
+      "b0103314ea4547d18b68e358def8b5fe"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Air",
+    "aliases": [],
+    "artist": "SHIKI",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Air",
+        "artist": "SHIKI",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "Air",
+        "artist": "SHIKI",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "ed1431841b95393054457fc93f88013a",
+      "695641062055dfe0ea4b1a27581829f6",
+      "6b31cca69dee3185df1160811c6a9fd3"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Angel dust",
+    "aliases": [],
+    "artist": "LV.4",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Angel dust",
+        "artist": "LV.4",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "5f8b266cbacd02bf4b99f72789193f53",
+      "6ce78f5afeab016f52a3bedbfa5865fd",
+      "a0cf76118cd64f043fb13c32fa3adbeb"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Angelic Layer",
+    "aliases": [
+      "Angelic layer"
+    ],
+    "artist": "SHIKI",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Angelic Layer",
+        "artist": "SHIKI",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "b7e015f9d45fe52a60ed2721f894ed53",
+      "641cf95b662c5ba2ef2670fb1efa152b"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "AVALON",
+    "aliases": [],
+    "artist": "sasakure.UK",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "AVALON",
+        "artist": "sasakure.UK",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "96f7e38da0b26797b71ab12ea84bd4d7",
+      "b2031892b5eb2098e9795ac796c2a876",
+      "00344f4881b6c4bcdcd7631c4174acd1"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "B.B.K.K.B.K.K.",
+    "aliases": [
+      "B.B.K.K.B.K.K"
+    ],
+    "artist": "nora2r",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "B.B.K.K.B.K.K.",
+        "artist": "nora2r",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "B.B.K.K.B.K.K.",
+        "artist": "nora2r",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "fd6a512162c97d4fc0db65f23fa7aa5b",
+      "7b56dcea7a2a5355baad10e6c303f5ef",
+      "96f48023f943857527cebbfbff5fbbc8",
+      "b648d56135d512d04e0b0bb45c894ed3"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "BABYLON",
+    "aliases": [],
+    "artist": "SHIKI",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://ongeki.sega.jp/assets/json/music/music.json",
+    "evidence": [
+      {
+        "game": "ongeki",
+        "title": "BABYLON",
+        "artist": "SHIKI",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "a79b663355d263af767ce4042e18638d"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Black Lair",
+    "aliases": [],
+    "artist": "削除 feat. void (Mournfinale)",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Black Lair",
+        "artist": "削除 feat. void (Mournfinale)",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Black Lair",
+        "artist": "削除 feat. void (Mournfinale)",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "22aa716b6871b57ff8a57c5754b6ceab",
+      "79c149b7fba33c0c44844fa61ee73323"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "conflict",
+    "aliases": [],
+    "artist": "siromaru + cranky",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "conflict",
+        "artist": "siromaru + cranky",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "conflict",
+        "artist": "siromaru + cranky",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "conflict",
+        "artist": "siromaru + cranky",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "d3f01e9780dcad2cfc4265f5741e9308",
+      "6cd6fcc42b1b5ca5000f30e882733db6",
+      "a30790195eaf053317a601e60229b019",
+      "46986ab93ea9b0c74023e49f49c36e8d",
+      "c868cf1119d763f2f1f6209c1e220feb"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Dengeki Tube",
+    "aliases": [
+      "DENGEKI Tube"
+    ],
+    "artist": "BACO",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Dengeki Tube",
+        "artist": "BACO",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "6711f582e2a376433016a72385cfbb0d",
+      "dc7bcc6ca7b0ca11a393e8bf1aa0935f"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Doppelganger",
+    "aliases": [],
+    "artist": "LeaF",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Doppelganger",
+        "artist": "LeaF",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "6bbd2516685586d4cf3cf638a0a73646",
+      "55ff2383f3d510f91c42f749a1fae4be",
+      "192e1e49c41c258e9916e54b75ba475a"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "DRAGONLADY",
+    "aliases": [],
+    "artist": "Nankumo / Nankumo/CUBE3",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "DRAGONLADY",
+        "artist": "Nankumo/CUBE3",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "DRAGONLADY",
+        "artist": "Nankumo/CUBE3",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "DRAGONLADY",
+        "artist": "Nankumo",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "8a9909464eb69bd8f1a79fb0f950df4f",
+      "77cfef0300152953e3911889cf2baf1a",
+      "49382530e38cbb39f6c3335fd3f8ad88",
+      "f5c5ac31b41bdfd825860208230dc334"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "elegante",
+    "aliases": [],
+    "artist": "Junk",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "elegante",
+        "artist": "Junk",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "13268063a5e50ef34d840c1afeaa772b",
+      "cd7aa1267f412aa02e90de4619cec68f"
+    ],
+    "note": "高嶺 愛花 is Junk’s BOF2010 alias.",
+    "references": [
+      "https://wikiwiki.jp/chunithmwiki/elegante"
+    ]
+  },
+  {
+    "name": "ETERNAL DRAIN",
+    "aliases": [],
+    "artist": "カラフル・サウンズ・ポート",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "ETERNAL DRAIN",
+        "artist": "カラフル・サウンズ・ポート",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "3ddddc0c3dc278223ff1df8a9f7ee5b2",
+      "137ecffa4c6433d98af6f66d1f9b9e8e",
+      "dc5a3496c7305d968983f2a3c71663d5"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "G e n g a o z o",
+    "aliases": [],
+    "artist": "-45",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "G e n g a o z o",
+        "artist": "-45",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "8804717ef4ac01d5a295805fd06ea9eb",
+      "1020ab072a23a3ef97454fddc0cc4d00"
+    ],
+    "note": "BMS credit 455-38B is an alias of -45.",
+    "references": [
+      "https://arcaea.fandom.com/wiki/G_e_n_g_a_o_z_o"
+    ]
+  },
+  {
+    "name": "Halcyon",
+    "aliases": [],
+    "artist": "xi",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Halcyon",
+        "artist": "xi",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Halcyon",
+        "artist": "xi",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "Halcyon",
+        "artist": "xi",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "9cce9c3c4fd16cb580ead60a5534d8f0"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "J219",
+    "aliases": [],
+    "artist": "Cranky",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "J219",
+        "artist": "Cranky",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "c320e749e5317b42ac722f01235b2c6f",
+      "8c7819335c23065b55b74af33cbff4f7",
+      "f7231ea61f14281b012e8a6bc5df5243"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Jack-the-Ripper◆",
+    "aliases": [],
+    "artist": "sasakure.UK / 有形ランペイジ",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Jack-the-Ripper◆",
+        "artist": "sasakure.UK",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Jack-the-Ripper◆",
+        "artist": "sasakure.UK",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "Jack-the-Ripper◆",
+        "artist": "有形ランペイジ",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "8b88bd43d89f0cc63c3a49a4aa4dee8d"
+    ],
+    "note": "Original BMS version; ONGEKI uses the 有形ランペイジ performance.",
+    "references": [
+      "https://aki-memo.net/2023/04/16/bms-songs-list-added-to-ongeki/"
+    ]
+  },
+  {
+    "name": "Jade Star",
+    "aliases": [],
+    "artist": "SHIKI",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Jade Star",
+        "artist": "SHIKI",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "c6894e370ae58ca8b43b71849be1d3f8"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Kronos",
+    "aliases": [],
+    "artist": "削除",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Kronos",
+        "artist": "削除",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "0187d2093af02ac5c02f592249f7b8ca",
+      "aa3808cec9dc378f0f319ac7dbb59603",
+      "0dfdaa938b2c966a2b3d42c42a5ecf17",
+      "cb41e81a5a70f3dcd09cf26e99a299d8"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Lapis",
+    "aliases": [],
+    "artist": "SHIKI",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Lapis",
+        "artist": "SHIKI",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "6cc1a263700ead6d371ae34f162ca818",
+      "303b981b09fbc283004a30e084d34b6c",
+      "934d145d27829a02cc6d036f599ad093"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Little \"Sister\" Bitch",
+    "aliases": [],
+    "artist": "t+pazolite",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Little \"Sister\" Bitch",
+        "artist": "t+pazolite",
+        "category": "東方Project",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Little \"Sister\" Bitch",
+        "artist": "t+pazolite",
+        "category": "東方Project",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai"
+    ],
+    "touhou": true,
+    "chart_md5": [
+      "fe3961231db015533e75901bca9f9ab6",
+      "417c63936354b5dfbd03d2cdfb6df7ac",
+      "6fac426f708dcafbeac298054f5d6261"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Love & Justice",
+    "aliases": [],
+    "artist": "BACO",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Love & Justice",
+        "artist": "BACO",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "Love & Justice",
+        "artist": "BACO",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "8d50b84e99d4657778b9e7194aa43197",
+      "d0f51f7cfd32c4554c10649f4d8792b7"
+    ],
+    "note": "BMS artist credit フロン / ラズベリル is BACO.",
+    "references": [
+      "https://soundcloud.com/baco853/love-justice-semi-long"
+    ]
+  },
+  {
+    "name": "Name of oath",
+    "aliases": [],
+    "artist": "void (Mournfinale) feat. コツキミヤ (Gt. えば)",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Name of oath",
+        "artist": "void (Mournfinale) feat. コツキミヤ (Gt. えば)",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "17933a5f54a7c0545efa9a137b0074fa",
+      "f93d15929514332d8fdef63e7819c193"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Once in my life",
+    "aliases": [],
+    "artist": "Junk feat.nananao",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://ongeki.sega.jp/assets/json/music/music.json",
+    "evidence": [
+      {
+        "game": "ongeki",
+        "title": "Once in my life",
+        "artist": "Junk feat.nananao",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "aca169f2265389bfc0a7ea42303f6e37"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Pangaea",
+    "aliases": [],
+    "artist": "sasakure.UK",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Pangaea",
+        "artist": "sasakure.UK",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "148da9257658b8377e5dec0e7ede42a8",
+      "cd3288cbe6ce0393c58f4e93aa30a691",
+      "f2ac1ed25874dc065a0625a5fde82b74"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Papyrus",
+    "aliases": [],
+    "artist": "papyrus (orangentle)",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Papyrus",
+        "artist": "papyrus (orangentle)",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "76380b7019db428ba23dd734cd98b334",
+      "1bac678de2bb5f50c9cf5359dfb624a0",
+      "ca8355b0ec0b1feaa838a28485365bd4"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Parousia",
+    "aliases": [],
+    "artist": "xi",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Parousia",
+        "artist": "xi",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "807e7a8140711277d2cf6580a58a7538",
+      "4237f0fff18962dbab352bfc77f12d03"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Party 4U ”holy nite mix”",
+    "aliases": [
+      "Party 4U \"holy nite mix\""
+    ],
+    "artist": "Cranky",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Party 4U ”holy nite mix”",
+        "artist": "Cranky",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "Party 4U ''holy nite mix''",
+        "artist": "Cranky",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "65ba13319367138639e1093ee5c1bef6",
+      "446e9c6ff554f20fb6785f0d304671c6"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "rePrayer",
+    "aliases": [],
+    "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://ongeki.sega.jp/assets/json/music/music.json",
+    "evidence": [
+      {
+        "game": "ongeki",
+        "title": "rePrayer",
+        "artist": "Aliesrite* (Ym1024 feat. lamie*)",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "fff35595c4f1a09f5d386af2ff9c7f2b",
+      "d7ee094f82541c4188075562ba195900",
+      "e4d16cd059743ebe26657c28fc0ba9fd",
+      "c28f3fa6ea9116cbd546c833544c9824"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Say A Vengeance",
+    "aliases": [],
+    "artist": "ETIA. feat.Jenga",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Say A Vengeance",
+        "artist": "ETIA. feat.Jenga",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "576b5c0b219fe0cc51e2172831f2f246",
+      "d2b6d7e50032c3966c840b10eb2df6e3"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Vallista",
+    "aliases": [
+      "VALLISTA"
+    ],
+    "artist": "削除",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Vallista",
+        "artist": "削除",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Vallista",
+        "artist": "削除",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "2ca120ae563f8aecc75ca2d4bf618299"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Wizdomiot",
+    "aliases": [],
+    "artist": "LeaF",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Wizdomiot",
+        "artist": "LeaF",
+        "category": "東方Project",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": true,
+    "chart_md5": [
+      "f302b088a836a5dbab4b52cfc653e2f9",
+      "c901d829ed71afec56a7c73c14cd67a4",
+      "f3dbee0778489b88494af25f2ff8562d"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "ZEUS",
+    "aliases": [],
+    "artist": "ルゼ",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "ZEUS",
+        "artist": "ルゼ",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "5cc7a201ad6328bee1e30555e717f9f1",
+      "8bcd0fb8f07239dc829f677a161a79e0"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "エピトゥリカの祀",
+    "aliases": [],
+    "artist": "sasakure.UK",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://ongeki.sega.jp/assets/json/music/music.json",
+    "evidence": [
+      {
+        "game": "ongeki",
+        "title": "エピトゥリカの祀",
+        "artist": "sasakure.UK",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "d4cbce0ef6c1a3c753a1165aec8e2350",
+      "ebd00343ab9ea3822f2d58a9ba9f0569",
+      "8573b56104657b7c8f6518251f34074e"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "真千年女王",
+    "aliases": [
+      "真・千年女王"
+    ],
+    "artist": "しらいし",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "真千年女王",
+        "artist": "しらいし",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "801d32e876eb83f6bfefb847e28943a4"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "風仁雷仁",
+    "aliases": [],
+    "artist": "カラフル・サウンズ・ポート",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "風仁雷仁",
+        "artist": "カラフル・サウンズ・ポート",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "風仁雷仁",
+        "artist": "カラフル・サウンズ・ポート",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "4d374322806d49c6b303576b31697e6c",
+      "923da9a2b4767a274da5283947655282",
+      "f3f88a1ee41151fe6174f364f7e23dd9"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "僕たちの旅とエピローグ。",
+    "aliases": [],
+    "artist": "ああああ",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://ongeki.sega.jp/assets/json/music/music.json",
+    "evidence": [
+      {
+        "game": "ongeki",
+        "title": "僕たちの旅とエピローグ。",
+        "artist": "ああああ",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "006397a7a7e059c51a460a44ad0788a5",
+      "843c3ddd9bd207ac89f9d1e8babfbd0f",
+      "7b093c855cbca4264cff15dab83387fd"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "STAGER",
+    "aliases": [],
+    "artist": "Ras",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "STAGER",
+        "artist": "Ras",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "5d3b3aa881c418e99570ac3295013d11",
+      "4d01872df42076cb574af6f4c5b66eca"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "The Formula",
+    "aliases": [],
+    "artist": "Junk",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "The Formula",
+        "artist": "Junk",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "The Formula",
+        "artist": "Junk",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "8eb88da4a4847b5a54f7aa6caec373f5",
+      "a85695e52ccee8736aa8bf2a7f3fc11a"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "愛と煩悩と輪廻と常識の極彩世界",
+    "aliases": [],
+    "artist": "sound piercer feat.Ritsu",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "愛と煩悩と輪廻と常識の極彩世界",
+        "artist": "sound piercer feat.Ritsu",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "fd16af814984bf7d352524d6f7541bc3"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Altale",
+    "aliases": [],
+    "artist": "削除",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Altale",
+        "artist": "削除",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Altale",
+        "artist": "削除",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "Altale",
+        "artist": "削除",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "b6abb8e4adb1696a36a580a452d880a7",
+      "3a216f13b8af085bfda6b7ca313a9b42"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Funny Funky Freaky",
+    "aliases": [],
+    "artist": "mommy",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Funny Funky Freaky",
+        "artist": "mommy",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "193ef486bbcda3d59068521c443cd541",
+      "5dbcb763149706a0d47ad6139a3abeb5"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "GO BACK 2 YOUR RAVE",
+    "aliases": [],
+    "artist": "nora2r",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "GO BACK 2 YOUR RAVE",
+        "artist": "nora2r",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      }
+    ],
+    "games": [
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "4217dc03f68d1d634550ff81c15fa704",
+      "4f9e39f8dd78cc0f31ff208c6db03ecd",
+      "7e55e096267a1026641536f96879f9ec"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "GOODMEN",
+    "aliases": [],
+    "artist": "EBIMAYO",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "GOODMEN",
+        "artist": "EBIMAYO",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      }
+    ],
+    "games": [
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "39bd8c900110736fc5d1af15934b7480",
+      "a62f9ae020a35e938b105bc7b5ff4b00"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "PUPA",
+    "aliases": [],
+    "artist": "モリモリあつし",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "PUPA",
+        "artist": "モリモリあつし",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "PUPA",
+        "artist": "モリモリあつし",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "66c09dae6d66a31a82329081e8bc09c4"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "ホーリーサンバランド",
+    "aliases": [],
+    "artist": "SAMBA MASTER 佐藤",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "ホーリーサンバランド",
+        "artist": "SAMBA MASTER 佐藤",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "075cd28fa561adb8a4d53c99c8ab845e",
+      "8754005b7680888bd1239280daa11050"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Credits",
+    "aliases": [],
+    "artist": "Frums",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Credits",
+        "artist": "Frums",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      }
+    ],
+    "games": [
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "01b62f0e00a0cbc224a92f596849a8f1"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "DATAERR0R",
+    "aliases": [
+      "DataErr0r"
+    ],
+    "artist": "Cosmograph / Lunatic Sounds",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "DATAERR0R",
+        "artist": "Cosmograph",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "DataErr0r",
+        "artist": "Lunatic Sounds",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "13afe40b00c5bdf42e3d7c9b8624ef8e",
+      "d37aa2b9197b54916f376ee385673823",
+      "a4939e9bf544bc8dc6145c3d924e6135"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "GOODTEK",
+    "aliases": [],
+    "artist": "EBIMAYO",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "GOODTEK",
+        "artist": "EBIMAYO",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "10c2108ee15ad0e03bd7d952e31362f2",
+      "3f4d2e0a900c0bc60418e3062c9b87b5"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "METATRON",
+    "aliases": [
+      "Metatron"
+    ],
+    "artist": "SHIKI",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "METATRON",
+        "artist": "SHIKI",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      }
+    ],
+    "games": [
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "f66ff4dd1bc028ba04dbc43a9c1025a8"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "MilK",
+    "aliases": [],
+    "artist": "モリモリあつし",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "MilK",
+        "artist": "モリモリあつし",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      }
+    ],
+    "games": [
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "833e373b6a760c2270b35dbe03c453c6",
+      "8d4c1d0ae276f6fbf23a5c88f2622252"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Sakura Fubuki",
+    "aliases": [],
+    "artist": "Street",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Sakura Fubuki",
+        "artist": "Street",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Sakura Fubuki",
+        "artist": "Street",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "Sakura Fubuki",
+        "artist": "Street",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "cf37978cd04b4d5ca3276b232cba9c38"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "クロートーと星の観測者",
+    "aliases": [],
+    "artist": "しーけー",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "クロートーと星の観測者",
+        "artist": "しーけー",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "b8fd9632ef2888608d5fb04b0e3335d5",
+      "5db9df7b392970ac36b78c46b55e2d62"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "人里に下ったアタイがいつの間にか社畜になっていた件",
+    "aliases": [],
+    "artist": "ねこみりん + nora2r feat. 小宮真央",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "人里に下ったアタイがいつの間にか社畜になっていた件",
+        "artist": "ねこみりん + nora2r feat. 小宮真央",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      }
+    ],
+    "games": [
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "196b20275c1f03a5777ee7596314964e",
+      "6a0276e1ad13fa5bd9a5201342216611"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "ENERGY SYNERGY MATRIX",
+    "aliases": [],
+    "artist": "Tanchiky",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "ENERGY SYNERGY MATRIX",
+        "artist": "Tanchiky",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "ENERGY SYNERGY MATRIX",
+        "artist": "Tanchiky",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "ENERGY SYNERGY MATRIX",
+        "artist": "Tanchiky",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "e4b37d505b1795dce39162d1d0f8df2b"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "GOODRAGE",
+    "aliases": [],
+    "artist": "EBIMAYO",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://ongeki.sega.jp/assets/json/music/music.json",
+    "evidence": [
+      {
+        "game": "ongeki",
+        "title": "GOODRAGE",
+        "artist": "EBIMAYO",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "aefc72a5d1a7cce39c14a2012f8ce6b4",
+      "478de765d5bc69fad45536eb4d3f6f5d"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "MAKE IT FUNKY NOW",
+    "aliases": [],
+    "artist": "DOT96",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "MAKE IT FUNKY NOW",
+        "artist": "DOT96",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      }
+    ],
+    "games": [
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "d3f0c2078565958eb8b5a06ac133bd47"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "浮世絵横丁",
+    "aliases": [],
+    "artist": "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき）",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "浮世絵横丁",
+        "artist": "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき）",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "浮世絵横丁",
+        "artist": "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき）",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "4d7c0f1026ec51bb0b1786a994351fe3"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Destr0yer",
+    "aliases": [],
+    "artist": "削除 feat. Nikki Simmons",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Destr0yer",
+        "artist": "削除 feat. Nikki Simmons",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Destr0yer",
+        "artist": "削除 feat. Nikki Simmons",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "Destr0yer",
+        "artist": "削除 feat. Nikki Simmons",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "aedbd449bad8866eb93517d0fc1d6cfd"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "On And On!!",
+    "aliases": [],
+    "artist": "ETIA. feat. Jenga",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "On And On!!",
+        "artist": "ETIA. feat. Jenga",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "e9f448b26d929bdb9adbd8cded1c1360"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "R.I.P.",
+    "aliases": [],
+    "artist": "eicateve",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "R.I.P.",
+        "artist": "eicateve",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "86f7b9ea56ae2a81b291b69935f33cd7"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "アイム・マイヒーロー",
+    "aliases": [],
+    "artist": "Ino(chronoize) feat. 柳瀬マサキ",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "アイム・マイヒーロー",
+        "artist": "Ino(chronoize) feat. 柳瀬マサキ",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      }
+    ],
+    "games": [
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "b204b264bf05c03916a6bff35e3ac562"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "c.s.q.n.",
+    "aliases": [],
+    "artist": "Aoi",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "c.s.q.n.",
+        "artist": "Aoi",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "c.s.q.n.",
+        "artist": "Aoi",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "064516c683b48d201491784c9630556f"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "MOBILYS",
+    "aliases": [],
+    "artist": "Dachs",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "MOBILYS",
+        "artist": "Dachs",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      }
+    ],
+    "games": [
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "768dff0b33fe40e64e325241e0362bbe"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Rush-More",
+    "aliases": [],
+    "artist": "litmus*",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Rush-More",
+        "artist": "litmus*",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      }
+    ],
+    "games": [
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "9f728e0517f855c12ad3d7e759900dab",
+      "46501fd97416683d641ef8d550df78fa",
+      "3ee880776115a1763273926124583d1a"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Shamshir -rough Pt.2-",
+    "aliases": [],
+    "artist": "mommy",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://ongeki.sega.jp/assets/json/music/music.json",
+    "evidence": [
+      {
+        "game": "ongeki",
+        "title": "Shamshir -rough Pt.2-",
+        "artist": "mommy",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "73f2657de441251caf3415e0ddaf82b1",
+      "37047d21c1780faf0839d3c6e34f4658"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "カラッポ・ノンフィクション",
+    "aliases": [],
+    "artist": "Ino(chronoize) feat. 柳瀬マサキ",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "カラッポ・ノンフィクション",
+        "artist": "Ino(chronoize) feat. 柳瀬マサキ",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "カラッポ・ノンフィクション",
+        "artist": "Ino(chronoize) feat. 柳瀬マサキ",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "カラッポ・ノンフィクション",
+        "artist": "Ino(chronoize) feat. 柳瀬マサキ",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "f9ab210d68f38c430c87269202d6ec80",
+      "562b4060f4ed6108f68bd96600b48ac1",
+      "a67a7d2293dc20b4c53dca8900ed5216",
+      "af95021e1167527f146209b22f404bfe"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "花たちに希望を",
+    "aliases": [],
+    "artist": "Sound piercer feat.DAZBEE",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "花たちに希望を",
+        "artist": "Sound piercer feat.DAZBEE",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "花たちに希望を",
+        "artist": "Sound piercer feat.DAZBEE",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "3f3bf456767240889351ba350dd4be5f",
+      "d872b4a4fe0e09db8d52163cbaea7931",
+      "16abf3f64cecf975d25b518fad091a4f",
+      "49070022b9c1a3b20ccca8fefef20d23"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "enchanted love",
+    "aliases": [],
+    "artist": "linear ring",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "enchanted love",
+        "artist": "linear ring",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      }
+    ],
+    "games": [
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "369b8cf86810ec22e584f362ef1267e9"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "LAST PROPOZE",
+    "aliases": [],
+    "artist": "あとぅす feat.橘花音",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "LAST PROPOZE",
+        "artist": "あとぅす feat.橘花音",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "fbc4d3403325ec7db3ea6010e950bd5d"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "NightTheater",
+    "aliases": [],
+    "artist": "わかどり",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "NightTheater",
+        "artist": "わかどり",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "NightTheater",
+        "artist": "わかどり",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "7de9883fa46692e122c18bc820b2bc05",
+      "0bb0f3f1c9b3f2fd4e721bcd50b09e9f",
+      "a26ca874b4b750f65bccde1f4fc948a1",
+      "e2cdae85b37833474e158ca727e713bd"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Psalms ～魂の還るばしょ～",
+    "aliases": [],
+    "artist": "qfeileadh&レゾナンスもえこ",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://ongeki.sega.jp/assets/json/music/music.json",
+    "evidence": [
+      {
+        "game": "ongeki",
+        "title": "Psalms ～魂の還るばしょ～",
+        "artist": "qfeileadh&レゾナンスもえこ",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "11b8afed9af00fa08059345776067933",
+      "69903c9a87acef264a3a82dd4bf34cf0"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "ゼイタクするまで抱きしめて",
+    "aliases": [],
+    "artist": "kei_iwata / KeiuO",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "ゼイタクするまで抱きしめて",
+        "artist": "kei_iwata / KeiuO",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "df7778a7d66df1613f569c92e596699b",
+      "6cb7bbde3f3c4f66a1ea2366f694b64a",
+      "abfe929fee464a894f2531b6c3d72b5e"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "竹",
+    "aliases": [
+      "Bamboo"
+    ],
+    "artist": "立秋 feat. ちょこ / 立秋 feat.ちょこ",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "竹",
+        "artist": "立秋 feat.ちょこ",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "竹",
+        "artist": "立秋 feat.ちょこ",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "竹",
+        "artist": "立秋 feat. ちょこ",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "2a87f3255758e1a980a4087f06f184ab",
+      "093eb85f7f5b74b4cded401ef0e4c543"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Luminaria",
+    "aliases": [],
+    "artist": "Lime",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Luminaria",
+        "artist": "Lime",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      }
+    ],
+    "games": [
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "f7e589c7e4b9a909f1c2943033a3869d"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "New York Back Raise",
+    "aliases": [],
+    "artist": "saaa + kei_iwata + stuv + わかどり",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "New York Back Raise",
+        "artist": "saaa + kei_iwata + stuv + わかどり",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "New York Back Raise",
+        "artist": "saaa + kei_iwata + stuv + わかどり",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "bc366d45f50ca45bcefe7ad18b4eaeaf",
+      "2fb078ea595f6ae168e189cd1f6f22cc",
+      "a4695197ae2c9eecc245629ac84f9586",
+      "3c3012e1b944010b7118a72d993d9fb1",
+      "18e7d81af6bfb7455410c31da1100c06",
+      "a680524acf04ec87378e69a5ce756438"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Rush-Hour",
+    "aliases": [],
+    "artist": "litmus*",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Rush-Hour",
+        "artist": "litmus*",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      }
+    ],
+    "games": [
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "3c4d45ea5fcf7fc1eee3057ede09f8b8",
+      "b348fe653262c5023101f49cad9420f7",
+      "5c255391468ca1b30c6ec657bf80eeb5",
+      "01c2630680f275aad04591e26a94e47d"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "ヒュブリスの頂に聳えるのは",
+    "aliases": [],
+    "artist": "qfeileadh feat.のあ",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "ヒュブリスの頂に聳えるのは",
+        "artist": "qfeileadh feat.のあ",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "b05020131195e7f7ec6592fa72355910",
+      "be68f47c9baf3d7d73931ee94e30c1fb",
+      "9c7e64039b2b240c6947cb07fc8ec8c2",
+      "11d214c5b42f3aa055edc1a4d7030220",
+      "4cc8fd5eafd0e5d130049d3c6ddb0296"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "MORNINGLOOM",
+    "aliases": [],
+    "artist": "saaa",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "MORNINGLOOM",
+        "artist": "saaa",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "MORNINGLOOM",
+        "artist": "saaa",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "640eb830422d95bd977a8c20d7ba3df2",
+      "08188dcfcb58dee255b3b87cf9899156",
+      "0d62c270ef76b2857774988a6ea4422a",
+      "e3f98632ee91521b597273d8c45de646"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Overjoy ★ OVERDOSE!!",
+    "aliases": [],
+    "artist": "Luna Fozer (BilliumMoto, 黒皇帝, Sobrem feat. vally.exe)",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Overjoy ★ OVERDOSE!!",
+        "artist": "Luna Fozer (BilliumMoto, 黒皇帝, Sobrem feat. vally.exe)",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      }
+    ],
+    "games": [
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "fde11881acba4fc16a1738a821af45aa",
+      "a7a6856a28bc7919763aa88c6ac4b950",
+      "ad58aa8584acea1c47772d0f0313a689"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "010",
+    "aliases": [],
+    "artist": "eoll",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "010",
+        "artist": "eoll",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "5407029bf523afc71ac968adc367a558",
+      "63721d1493a5517845bd8424c93f1a8f",
+      "0b1027dbc6f7d0f2f746c1ee22aa382b",
+      "9cccdc412e7cc0a58add2f3720cd2b3a"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Calamity Fortune",
+    "aliases": [],
+    "artist": "LeaF",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Calamity Fortune",
+        "artist": "LeaF",
+        "category": "東方Project",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Calamity Fortune",
+        "artist": "LeaF",
+        "category": "東方Project",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "Calamity Fortune",
+        "artist": "LeaF",
+        "category": "東方Project",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": true,
+    "chart_md5": [
+      "8adc15797012dcf1088f01ad2aec23ad",
+      "27c1133a0673abcab8215bd71facb2c2",
+      "52fff3213700bc82e534f193be8721df"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "INTERNET OVERDOSE",
+    "aliases": [],
+    "artist": "Aiobahn feat. KOTOKO / Aiobahn feat. KOTOKO「NEEDY GIRL OVERDOSE」",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "INTERNET OVERDOSE",
+        "artist": "Aiobahn feat. KOTOKO",
+        "category": "POPS＆アニメ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "INTERNET OVERDOSE",
+        "artist": "Aiobahn feat. KOTOKO「NEEDY GIRL OVERDOSE」",
+        "category": "POPS & ANIME",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "INTERNET OVERDOSE",
+        "artist": "Aiobahn feat. KOTOKO",
+        "category": "POPS＆ANIME",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "ffefafc3aea3d6091c909b1275f9e71b"
+    ],
+    "note": "",
+    "references": []
+  },
+  {
+    "name": "Äventyr",
+    "aliases": [
+      "Aeventyr"
+    ],
+    "artist": "Grand Thaw / Rigel Theatre",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Äventyr",
+        "artist": "Grand Thaw / Rigel Theatre",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "Äventyr",
+        "artist": "Grand Thaw / Rigel Theatre",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "bfa5033630091ecaf8b8e6ce85a8ff43"
+    ],
+    "note": "BMS title Aeventyr; game title Äventyr.",
+    "references": [
+      "https://wikiwiki.jp/chunithmwiki/%C3%84ventyr"
+    ]
+  },
+  {
+    "name": "La Flesvelka",
+    "aliases": [
+      "Flesvelka"
+    ],
+    "artist": "Grand Thaw / Rigel Theatre",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "La Flesvelka",
+        "artist": "Grand Thaw / Rigel Theatre",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "bd435a6076347c7a6ef1605473d92c8b",
+      "6e49308c835d65b9150a5bee5fd7f4b1"
+    ],
+    "note": "Original BMS Flesvelka; CHUNITHM uses the remake La Flesvelka.",
+    "references": [
+      "https://wikiwiki.jp/chunithmwiki/La%20Flesvelka"
+    ]
+  },
+  {
+    "name": "felys -final remix-",
+    "aliases": [
+      "FELYS"
+    ],
+    "artist": "onoken",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "felys -final remix-",
+        "artist": "onoken",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "felys -final remix-",
+        "artist": "onoken",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "felys -final remix-",
+        "artist": "onoken",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "8f202f17c8128b78c060ddc967096a4e",
+      "6bda10a5af6b163990f9823092b2683b",
+      "476632aa1bf71f1cf94e3e82c77428a9",
+      "807a412a683c153abf2b187690538f41"
+    ],
+    "note": "Original BMS felys; the three games use -final remix-.",
+    "references": [
+      "https://wikiwiki.jp/chunithmwiki/felys%20-final%20remix-"
+    ]
+  },
+  {
+    "name": "JULIAN",
+    "aliases": [
+      "JULIAN \"for B.O.F. 2009\""
+    ],
+    "artist": "Queen P.A.L.",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "JULIAN",
+        "artist": "Queen P.A.L.",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "eccc2f3d16d23a9153c3f4744e827192",
+      "75128433bede96a90c21f29f8ae3acf1"
+    ],
+    "note": "BMS title includes “for B.O.F. 2009”.",
+    "references": [
+      "https://wikiwiki.jp/chunithmwiki/JULIAN"
+    ]
+  },
+  {
+    "name": "Velaciela (Hyper Mix)",
+    "aliases": [
+      "Velaciela"
+    ],
+    "artist": "naotyu-",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://ongeki.sega.jp/assets/json/music/music.json",
+    "evidence": [
+      {
+        "game": "ongeki",
+        "title": "Velaciela (Hyper Mix)",
+        "artist": "naotyu-",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "e74648fd7100f9f31d7c2e5ae41c7c1b"
+    ],
+    "note": "Original BMS Velaciela; ONGEKI uses the remade Hyper Mix.",
+    "references": [
+      "https://wikiwiki.jp/gameongeki/Velaciela%20%28Hyper%20Mix%29"
+    ]
+  },
+  {
+    "name": "Yakumo >>JOINT STRUGGLE (2019 Update)",
+    "aliases": [
+      "Yakumo >>JOINT STRUGGLE"
+    ],
+    "artist": "くっちー (DARKSIDE APPROACH)",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Yakumo >>JOINT STRUGGLE (2019 Update)",
+        "artist": "くっちー (DARKSIDE APPROACH)",
+        "category": "東方Project",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Yakumo >>JOINT STRUGGLE (2019 Update)",
+        "artist": "くっちー (DARKSIDE APPROACH)",
+        "category": "東方Project",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai"
+    ],
+    "touhou": true,
+    "chart_md5": [
+      "d42e879e06a33cf7ecd082d92b191b3c"
+    ],
+    "note": "Original BMS arrangement; games use the 2019 Update.",
+    "references": [
+      "https://wikiwiki.jp/chunithmwiki/Yakumo%20%3E%3EJOINT%20STRUGGLE%20%282019%20Update%29"
+    ]
+  },
+  {
+    "name": "Akasagarbha -reincarnate-",
+    "aliases": [
+      "Akasagarbha"
+    ],
+    "artist": "wa. vs ETIA.",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Akasagarbha -reincarnate-",
+        "artist": "wa. vs ETIA.",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "Akasagarbha -reincarnate-",
+        "artist": "wa. vs ETIA.",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "c692355b044f4e0899c13e96270e67a6",
+      "75dddd514bb646d193f5b4c9f53f0e38"
+    ],
+    "note": "Original BMS version; games use -reincarnate-.",
+    "references": [
+      "https://wikiwiki.jp/chunithmwiki/Akasagarbha%20-reincarnate-"
+    ]
+  },
+  {
+    "name": "EVERGREEN",
+    "aliases": [
+      "EVERGREEN \"The Night Before X'mas Mix\""
+    ],
+    "artist": "Cranky",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "EVERGREEN",
+        "artist": "Cranky",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      }
+    ],
+    "games": [
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "305bd8c0b09fcfae0c71255b668f59fc",
+      "ab0a0ffc9e1968ef6d3e5a14748d9d22"
+    ],
+    "note": "Original BMS “The Night Before X’mas Mix”; maimai uses the later version.",
+    "references": [
+      "https://maidb.my.id/songs/evergreen-cranky-xicmn"
+    ]
+  },
+  {
+    "name": "Random",
+    "aliases": [
+      "Random (Route #1)"
+    ],
+    "artist": "Sobrem × Silentroom",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Random",
+        "artist": "Sobrem × Silentroom",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Random",
+        "artist": "Sobrem × Silentroom",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "07fd4e867c0d5e1c75ee8b10bcd079c7"
+    ],
+    "note": "BMS Route #1 chart.",
+    "references": []
+  },
+  {
+    "name": "もぺもぺ",
+    "aliases": [
+      "mopemope"
+    ],
+    "artist": "LeaF / LeaF & Optie",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "もぺもぺ",
+        "artist": "LeaF & Optie",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "もぺもぺ",
+        "artist": "LeaF",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [
+      "dbfe9cdaf0fae957ab68ef013d925829",
+      "ad7b608ef1061e79e156838b9724190c"
+    ],
+    "note": "mopemope. Two documented ratings from the excluded table (BGA gore category).",
+    "references": [
+      "https://pmsdifficulty.xxxxxxxx.jp/excluded_PMSdifficulty.html"
+    ]
+  },
+  {
+    "name": "Imperishable Night 2006 (2016 Refine)",
+    "aliases": [],
+    "artist": "ゆうゆ / 篠螺悠那",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Imperishable Night 2006 (2016 Refine)",
+        "artist": "ゆうゆ / 篠螺悠那",
+        "category": "東方Project",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Imperishable Night 2006 (2016 Refine)",
+        "artist": "ゆうゆ / 篠螺悠那",
+        "category": "東方Project",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "Imperishable Night 2006 (2016 Refine)",
+        "artist": "ゆうゆ / 篠螺悠那",
+        "category": "東方Project",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": true,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "Satori ～3rd EyEs (2020 Recall)",
+    "aliases": [],
+    "artist": "くっちー (DARKSIDE APPROACH)",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://ongeki.sega.jp/assets/json/music/music.json",
+    "evidence": [
+      {
+        "game": "ongeki",
+        "title": "Satori ～3rd EyEs (2020 Recall)",
+        "artist": "くっちー (DARKSIDE APPROACH)",
+        "category": "東方Project",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "ongeki"
+    ],
+    "touhou": true,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "星の器～STAR OF ANDROMEDA",
+    "aliases": [],
+    "artist": "sun3",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "星の器～STAR OF ANDROMEDA",
+        "artist": "sun3",
+        "category": "東方Project",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": true,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "Armageddon",
+    "aliases": [],
+    "artist": "LeaF",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Armageddon",
+        "artist": "LeaF",
+        "category": "東方Project",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Armageddon",
+        "artist": "LeaF",
+        "category": "東方Project",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "Armageddon",
+        "artist": "LeaF",
+        "category": "東方Project",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": true,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "Destined Marionette",
+    "aliases": [],
+    "artist": "ビートまりお",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Destined Marionette",
+        "artist": "ビートまりお",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Destined Marionette",
+        "artist": "ビートまりお",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "A c i - L",
+    "aliases": [],
+    "artist": "-45",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "A c i - L",
+        "artist": "-45",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "Aragami",
+    "aliases": [],
+    "artist": "xi",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Aragami",
+        "artist": "xi",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "Ascension to Heaven",
+    "aliases": [],
+    "artist": "xi",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Ascension to Heaven",
+        "artist": "xi",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "AXION",
+    "aliases": [],
+    "artist": "削除",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "AXION",
+        "artist": "削除",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "Black Lotus",
+    "aliases": [],
+    "artist": "wa.",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Black Lotus",
+        "artist": "wa.",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "Chronomia",
+    "aliases": [],
+    "artist": "Lime",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Chronomia",
+        "artist": "Lime",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Chronomia",
+        "artist": "Lime",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "Chronomia",
+        "artist": "Lime",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "Dreadnought",
+    "aliases": [],
+    "artist": "Mastermind(xi+nora2r)",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Dreadnought",
+        "artist": "Mastermind(xi+nora2r)",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Dreadnought",
+        "artist": "Mastermind(xi+nora2r)",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "Dreadnought",
+        "artist": "Mastermind(xi+nora2r)",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "FREEDOM DiVE",
+    "aliases": [],
+    "artist": "xi",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "FREEDOM DiVE",
+        "artist": "xi",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "FREEDOM DiVE",
+        "artist": "xi",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "Life is PIANO",
+    "aliases": [],
+    "artist": "Junk",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Life is PIANO",
+        "artist": "Junk",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "MARENOL",
+    "aliases": [],
+    "artist": "LeaF & Optie & Fiz",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "MARENOL",
+        "artist": "LeaF & Optie & Fiz",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "Nhelv",
+    "aliases": [],
+    "artist": "Silentroom",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Nhelv",
+        "artist": "Silentroom",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "Pure Ruby",
+    "aliases": [],
+    "artist": "SHIKI",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Pure Ruby",
+        "artist": "SHIKI",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "Re：End of a Dream",
+    "aliases": [],
+    "artist": "uma vs. モリモリあつし",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "Re：End of a Dream",
+        "artist": "uma vs. モリモリあつし",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "Re：End of a Dream",
+        "artist": "uma vs. モリモリあつし",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "Re：End of a Dream",
+        "artist": "uma vs. モリモリあつし",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "チョウの標本",
+    "aliases": [],
+    "artist": "Bitplane",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "チョウの標本",
+        "artist": "Bitplane",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "キミとボクへの葬送歌",
+    "aliases": [],
+    "artist": "ROKINA",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "キミとボクへの葬送歌",
+        "artist": "ROKINA",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "水晶世界 ～Fracture～",
+    "aliases": [],
+    "artist": "wa. remixed celas",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "水晶世界 ～Fracture～",
+        "artist": "wa. remixed celas",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "End Time",
+    "aliases": [],
+    "artist": "Cres.",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://maimai.sega.jp/data/maimai_songs.json",
+    "evidence": [
+      {
+        "game": "maimai",
+        "title": "End Time",
+        "artist": "Cres.",
+        "category": "ゲーム＆バラエティ",
+        "source": "https://maimai.sega.jp/data/maimai_songs.json"
+      },
+      {
+        "game": "chunithm",
+        "title": "End Time",
+        "artist": "Cres.",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      },
+      {
+        "game": "ongeki",
+        "title": "End Time",
+        "artist": "Cres.",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "chunithm",
+      "maimai",
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "Aleph-0",
+    "aliases": [],
+    "artist": "LeaF",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://chunithm.sega.jp/storage/json/music.json",
+    "evidence": [
+      {
+        "game": "chunithm",
+        "title": "Aleph-0",
+        "artist": "LeaF",
+        "category": "VARIETY",
+        "source": "https://chunithm.sega.jp/storage/json/music.json"
+      }
+    ],
+    "games": [
+      "chunithm"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  },
+  {
+    "name": "Showguts",
+    "aliases": [],
+    "artist": "Ninja Action Team",
+    "basis": "Japanese official song catalog; title and artist reviewed",
+    "source": "https://ongeki.sega.jp/assets/json/music/music.json",
+    "evidence": [
+      {
+        "game": "ongeki",
+        "title": "Showguts",
+        "artist": "Ninja Action Team",
+        "category": "VARIETY",
+        "source": "https://ongeki.sega.jp/assets/json/music/music.json"
+      }
+    ],
+    "games": [
+      "ongeki"
+    ],
+    "touhou": false,
+    "chart_md5": [],
+    "note": "No rated chart in the selected normal snapshot.",
+    "references": [
+      "https://w.atwiki.jp/laser_bm/pages/86.html"
+    ]
+  }
+]
